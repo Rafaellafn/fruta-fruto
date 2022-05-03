@@ -25,3 +25,8 @@
  .borda-cor-especial {
    border-color:darkred ;
  }
+
+ .car-posicao-imagem {
+    object-fit: cover; 
+    height: 200px;
+ }
