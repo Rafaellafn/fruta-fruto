@@ -1,3 +1,7 @@
+.card-largura {
+  width: 18rem;
+}
+
 .imagem-carrosel-um {
    object-fit: cover;
    object-position: 0 80%; 
